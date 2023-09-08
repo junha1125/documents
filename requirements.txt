@@ -40,8 +40,8 @@ rsa==4.8
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
 scikit-image==0.19.3
-scikit-learn==1.0.2
-scipy==1.7.3
+scikit-learn
+scipy
 six==1.16.0
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
